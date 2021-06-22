@@ -1,0 +1,10 @@
+A pomodoro timer iOS application.
+
+Use Details:
+-Users can time their study/work sessions using the Pomodoro method.
+-The user chooses the duration of their focus session and break session.
+-The app will alert the user when their focus session is over and the break session begins.
+-The user has the option to mute alert sounds.
+
+The current application is still under development, and more functions will be added in the future.
+If you encounter problems during the test, please contact me
